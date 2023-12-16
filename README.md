@@ -3,8 +3,8 @@ The system leverages technologies like Streamlit WebRTC module, OpenCV, Keras, a
 Basically, the System using facial recognition is designed to enhance the music listening experience by tailoring music recommendations based on the user's emotional state detected through facial expressions. 
 The detected emotions are then used to recommend suitable music tracks, providing a personalized and immersive music listening experience.
 
-Objectives
-The main objective of this project is to create a system that can accurately recognize the user's emotions through facial expressions and recommend music that aligns with their current emotional state. To sum up the objectives it is as follows :
+The main objective of this project is to create a system that can accurately recognize the user's emotions through facial expressions and recommend music that aligns with their current emotional state. 
+To sum up the objectives it is as follows :
 1.	Utilize facial recognition technology to detect and analyze the user's emotional state.
 2.	Integrate real-time video streaming through Streamlit WebRTC module for efficient processing.
 3.	Implement a recommendation algorithm that maps detected emotions to suitable music genres or tracks.
